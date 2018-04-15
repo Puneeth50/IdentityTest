@@ -1,0 +1,5 @@
+IdentityE2E Test automation framework provides structured way of creating automated test scripts for GUI.
+
+fileUtilityTest class has junit tests to verify file name, extension, mime type and size of files in the directory (main/resources/files)
+
+VehicleDetails .feature (test/resources/bdd scenarios) is to verify vehicle reg details mentioned in data.csv file.
